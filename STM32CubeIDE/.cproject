@@ -126,11 +126,7 @@
 									<listOptionValue builtIn="false" value=":libtouchgfx-float-abi-hard.a"/>
 								</option>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.directories.9859549508" name="Library search path (-L)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.directories" useByScannerDiscovery="false" valueType="libPaths">
-									<listOptionValue builtIn="false" value="C:/Dev/STM32F746-DISCO/stm32f746g_disco/STM32F746G_DISCO/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc"/>
-									<listOptionValue builtIn="false" value="C:/git/STM32F746-dk/stm32f746g_disco/STM32F746G_DISCO/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc"/>
-									<listOptionValue builtIn="false" value="C:/dev/pacman/at/stm32f746g_disco/STM32F746G_DISCO/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc"/>
-									<listOptionValue builtIn="false" value="C:/pacman/at/stm32f746g_disco/STM32F746G_DISCO/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc"/>
-									<listOptionValue builtIn="false" value="C:/DSP_tests/DSP_tests/myRadio_1/myRadio_1/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc"/>
+									<listOptionValue builtIn="false" value="D:/mySdrRadio/mySdrRadio/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input.759218838" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input">
 									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
@@ -274,6 +270,7 @@
 									<listOptionValue builtIn="false" value="C:/dev/pacman/at/stm32f746g_disco/STM32F746G_DISCO/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc"/>
 									<listOptionValue builtIn="false" value="C:/pacman/at/stm32f746g_disco/STM32F746G_DISCO/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc"/>
 									<listOptionValue builtIn="false" value="C:/DSP_tests/DSP_tests/myRadio_1/myRadio_1/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc"/>
+									<listOptionValue builtIn="false" value="D:/mySdrRadio/mySdrRadio/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input.961771524" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input">
 									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
